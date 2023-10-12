@@ -6,7 +6,7 @@ import {
 	Route,
 } from 'react-router-dom';
 import { QueryClient, QueryClientProvider } from 'react-query';
-import '/main.scss';
+import './assets/main.scss';
 
 import App from './App';
 
