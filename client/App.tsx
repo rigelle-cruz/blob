@@ -1,7 +1,9 @@
+import { Blobs } from './components/Blobs';
+
 function App() {
 	return (
 		<>
-			<h1>hello!</h1>
+			<Blobs />
 		</>
 	);
 }
