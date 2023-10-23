@@ -17,6 +17,7 @@ export const Blobs = () => {
 		<>
 			<div className="wrapper">
 				<div
+					className={ballClass}
 					onMouseDown={handleMouseDown}
 					onMouseUp={handleMouseUp}></div>
 				<div
